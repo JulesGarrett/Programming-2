@@ -1,0 +1,12 @@
+Lawrence, 85483, 3
+Kansas City, 1500000, 2
+Smallville, 23, 0
+Olathe, 125000, 1
+Largeville, 30000, 0
+Seattle, 190000, 3
+San Diego, 250000, 2
+Los Angeles, 200000, 2
+Wamego, 15250, 1
+Overland Park, 105000, 2
+Leewood, 102000, 2
+Lenexa, 50150, 1

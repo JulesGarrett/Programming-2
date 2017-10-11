@@ -1,0 +1,5 @@
+Bulbasaur,1,Fushigidane
+Ivysaur,2,Fushigisou
+Venusaur,3,Fushigibana
+Charmander,4,Hitokage
+Gloom,44,Kusaihana
